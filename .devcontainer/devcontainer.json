@@ -1,0 +1,15 @@
+{
+  "name": "ROS2 Humble Codespace",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  },
+  "extensions": [
+    "ms-python.python",
+    "ms-azuretools.vscode-docker"
+  ],
+  "forwardPorts": [],
+  "remoteUser": "vscode"
+}
